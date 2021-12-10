@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Denis-Ozolin/goit-node.js-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "yargs": "^17.3.0"
   }
 }
